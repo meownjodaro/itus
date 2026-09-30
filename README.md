@@ -1,8 +1,8 @@
-# **Requirements**
+# **Minimum Requirements**
 
 1. Python 3.14.3  
-   1. Pandas package  
-   2. Numpy package
+   1. Pandas 3.0.5  
+   2. Numpy 2.5.2
 
 
 # **TUS 2019 Download Instructions**
